@@ -1,0 +1,4 @@
+{
+    "mongoURI": " mongodb+srv://dev_user:sample123@clustermayank-gh4qw.mongodb.net/contact-keeperDB?retryWrites=true&w=majority",
+    "jwtScret": "scret"
+}
